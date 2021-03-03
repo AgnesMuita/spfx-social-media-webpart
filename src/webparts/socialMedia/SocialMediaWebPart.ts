@@ -18,6 +18,7 @@ import "bootstrap";
 let cssURL =
   "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css";
 SPComponentLoader.loadCss(cssURL);
+import './custom.css';
 
 export interface ISocialMediaWebPartProps {
   description: string;
