@@ -25,6 +25,7 @@
     }
   },
   "localizedResources": {
-    "SocialMediaWebPartStrings": "lib/webparts/socialMedia/loc/{locale}.js"
+    "SocialMediaWebPartStrings": "lib/webparts/socialMedia/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js"
   }
 }
